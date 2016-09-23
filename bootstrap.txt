@@ -9,7 +9,8 @@ JavaScript 插件：
 Bootstrap 包含了十几个自定义的 jQuery 插件。您可以直接包含所有的插件，也可以逐个包含这些插件。这将在 Bootstrap 插件 部分详细讲解
 
 
-
+下载安装：
+   1、下载地址：http://getbootstrap.com/
 
 
 
